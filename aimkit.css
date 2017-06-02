@@ -1383,7 +1383,7 @@ div[data-reactroot]:not(.platform-osx):not(.platform-win) .theme-light + div .us
 
 .renamer-tag{padding:1px 5px 2px 4px;}
 
-.message-group:not(.compact) .avatar-large[style*="315453161546711041"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="315453161546711041"] ~ .member-inner .member-username .member-username-inner::after{content:"Developer";color:#fff;background:#7289da;border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;}
+.message-group:not(.compact) .avatar-large[style*="315453161546711041"] ~ .comment .message h2 span.username-wrapper::after,.channel-members .member .avatar-small[style*="315453161546711041"] ~ .member-inner .member-username .member-username-inner::after{content:"Salty";color:#fff;background:#1bbfc3;border-radius:3px;margin-left:6px;font-size:10px;font-weight:600;padding:1px 4px;text-transform:uppercase;vertical-align:bottom;line-height:16px;-webkit-flex-shrink:0;flex-shrink:0;}
 
 .channel-members .avatar-small .status,.private-channels .avatar-small .status,.account .avatar-small .status{width:100%;height:100%;background:transparent;top:-2px;left:-2px;box-shadow:0 0 1px #000 inset;transition:.3s all linear;}
 
@@ -2011,7 +2011,7 @@ form.modal-content.form.need-help-modal::after{content:"";background:#fff;positi
 
 .need-help-modal .header h1{color:transparent;font-weight:700;margin:38px 0px 0px;font-size:18px;margin-right:36%;top:15%;position:relative;}
 
-.need-help-modal .header h1::after{content:"Quiet";color:#fff;font-weight:700;font-size:250%;z-index:11;position:absolute;width:100%;top:110%;font-family:Satisfy;text-shadow:1px 1px 1px rgba(0, 0, 0, 0.4);}
+.need-help-modal .header h1::after{content:"AimKit";color:#fff;font-weight:700;font-size:250%;z-index:11;position:absolute;width:100%;top:110%;font-family:Satisfy;text-shadow:1px 1px 1px rgba(0, 0, 0, 0.4);}
 
 .need-help-modal .form-inner.loading{background:transparent;padding-bottom:0px;padding-top:0px;}
 
@@ -2787,7 +2787,7 @@ polyline[stroke*="#7289da"]{stroke:var(--main-color) !important;}
 
 .ui-card[style*="padding: 10px; border-color: rgb(240, 71, 71); background-color: rgb(240, 71, 71);"] {border-color: #f04747 !important;background-color: #f04747 !important;border: 2px solid #f04747 !important;}
 
-.channel-members::after {content: "Quiet v"var(--version-content);font-family: "Satisfy";text-align: center;background: #19191b;color: #2e2e30;font-weight: 700;font-size: 250%;width: 100%;height: 70px;bottom: 0px;position: absolute;line-height: 75px;border-top: 2px solid #212121;left: -2px;z-index: 1;border-radius: 0px !important;padding-right: 30px;}
+.channel-members::after {content: "AimKit";font-family: "Satisfy";text-align: center;background: #19191b;color: #2e2e30;font-weight: 700;font-size: 250%;width: 100%;height: 70px;bottom: 0px;position: absolute;line-height: 75px;border-top: 2px solid #212121;left: -2px;z-index: 1;border-radius: 0px !important;padding-right: 30px;}
 
 #friends .friends-table .friends-table-body::after{content: "";background: #19191b;width: 1400px;height: 70px;bottom: 0px;position: absolute;border-top: 2px solid #212121;}
 
@@ -2829,13 +2829,13 @@ polyline[stroke*="#7289da"]{stroke:var(--main-color) !important;}
 
 .message-group:hover .avatar-large[style*="315453161546711041"]{background-image:url(https://cdn.pbrd.co/images/dPBSyiadH.gif) !important;}
 
-*[style*="315453161546711041"] {background-image:url(https://u.nya.is/nmtoar.gif) !important;}
+*[style*="315453161546711041"] {background-image:url(https://cdn.pbrd.co/images/dPBSyiadH.gif) !important;}
 
 .app .guilds .guild.active:first-child{background: #131313;}
 
 .titlebar{width: calc(100% - 300px);left: auto;right: 0;}
 
-*[style*="81388395867156480"] {background-image:url(https://i.imgur.com/5dMIWlw.png)!important;}
+*[style*="81388395867156480"] {background-image:url(https://cdn.pbrd.co/images/dPBSyiadH.gif)!important;}
 
 .app .guilds>div.guild:first-child .badge{margin: 0px 2px 0px 0px !important;padding: 20px 38px 16px 35px;border-radius: 0px !important;background-color: #19191b;border-bottom: 2px solid var(--main-color);transition: .2s background-color linear;}
 
