@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> f19fa4276d4b60a580a90acc16b0d824cd5966b6
 @import url(https://fonts.googleapis.com/css?family=Satisfy);
 :root {
 	--version-content: "3.1"
@@ -922,11 +918,7 @@ textarea{background:transparent !important;}
 
 .spinner-wandering-cubes .spinner-item{background-color:var(--main-color);border-radius:20px;}
 
-<<<<<<< HEAD
 .theme-dark .channel-textarea-autocomplete-inner,.channel-textarea-autocomplete-inner{background-color:#19191b;border-color:#131315;}
-=======
-.theme-dark .channel-textarea-autocomplete-inner,.channel-textarea-autocomplete-inner{background-image: url("http://4kfreeporn.com/wp-content/uploads/2016/04/Adriana-Chechik-in-My-Wife-Is-My-Pornstar01.jpg");border-color:#131315;}
->>>>>>> f19fa4276d4b60a580a90acc16b0d824cd5966b6
 
 .theme-dark .channel-textarea-autocomplete-inner ul li.active,.channel-textarea-autocomplete-inner ul li.active{background:#131315;}
 
@@ -1545,11 +1537,7 @@ div[data-reactroot]:not(.platform-osx):not(.platform-win) .theme-light + div .us
 
 .theme-light .account .btn-settings:after{background-image:none !important;zoom:1.2;}
 
-<<<<<<< HEAD
 .chat form{background:#19191b; border: none!important; margin: 0;box-shadow: 0 0 0 rgba(0,0,0,0);}
-=======
-.chat form{background-image: url("http://4kfreeporn.com/wp-content/uploads/2016/04/Adriana-Chechik-in-My-Wife-Is-My-Pornstar01.jpg"); border: none!important; margin: 0;box-shadow: 0 0 0 rgba(0,0,0,0);}
->>>>>>> f19fa4276d4b60a580a90acc16b0d824cd5966b6
 
 .emoji-picker .categories .item.selected{border-bottom-color:var(--main-color);}
 
@@ -2660,11 +2648,6 @@ img[src="/assets/4a3496c5b0924198ae0234331c912d1b.png"]{content:url(data:image/s
 *[style='background-image:url("/assets/4a3496c5b0924198ae0234331c912d1b.png");']{background-image:url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjxzdmcgaGVpZ2h0PSI1Ni43cHgiIGlkPSJMYXllcl8xIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1Ni43IDU2Ljc7IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1Ni43IDU2LjciIHdpZHRoPSI1Ni43cHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnPjxnPjxwYXRoIHN0eWxlPSJmaWxsOiNmZmYiIGQ9Ik01My4wNDgsMjguNDQ1N2MwLTMuMTM3My0yLjU1MjUtNS42ODk5LTUuNjg5OS01LjY4OTljLTEuMzk1NiwwLTIuNzExNiwwLjUwNDktMy43NTA2LDEuNDE5ICAgIGMtMy43NjI3LTIuNDA3OS04Ljc4MzQtMy45MjUtMTQuMzIxNS00LjA4ODRsMy4zODg2LTExLjU5MDNsOC4zMjAxLDEuNTQ1OGMtMC4wMDA0LDAuMDY3Ni0wLjAxMzUsMC4xMzIxLTAuMDEsMC4yMDA0ICAgIGMwLjEwMSwxLjk4MDEsMS43OTM4LDMuNTA4NiwzLjc3NCwzLjQwNzZjMS45OC0wLjEwMSwzLjUwODYtMS43OTM5LDMuNDA3Ni0zLjc3MzljLTAuMTAxLTEuOTgwMS0xLjc5MzgtMy41MDg2LTMuNzczOS0zLjQwNzYgICAgYy0xLjI3ODUsMC4wNjUyLTIuMzYwNSwwLjc5ODUtMi45NDU1LDEuODM5OGMtMC4wMDEtMC4wMDAzLTAuMDAxOS0wLjAwMS0wLjAwMy0wLjAwMTJsLTEwLjAyNi0xLjg2MjZsLTMuOTkzNCwxMy42Mzg4ICAgIGMtNS41NTE1LDAuMTQ4LTEwLjU4ODEsMS42NTYzLTE0LjM2Nyw0LjA1OThjLTEuMDMzNS0wLjg5NDQtMi4zMzU4LTEuMzg3Mi0zLjcxNTYtMS4zODcyYy0zLjEzNzIsMC01LjY4OTksMi41NTI1LTUuNjg5OSw1LjY4OTkgICAgYzAsMS45NDA1LDAuOTk5LDMuNzI5OSwyLjYxNjcsNC43NzM5Yy0wLjA5ODMsMC41Njc4LTAuMTU0NCwxLjE0NDMtMC4xNTQ0LDEuNzI5NmMwLDguMjEyNyw5Ljk1NTQsMTQuODk0OCwyMi4xOTM0LDE0Ljg5NDggICAgUzUwLjUwMSw0My4xNjE4LDUwLjUwMSwzNC45NDkyYzAtMC41Njg0LTAuMDUyMi0xLjEyODMtMC4xNDUxLTEuNjgwM0M1Mi4wMTgyLDMyLjIzMjksNTMuMDQ4LDMwLjQxNjcsNTMuMDQ4LDI4LjQ0NTd6ICAgICBNMTcuNzYwMiwzMi4zMTgzYzAtMS45Mjk4LDEuNTY1LTMuNDk1NiwzLjQ5NzUtMy40OTU2YzEuOTMwNywwLDMuNDk1NywxLjU2NTgsMy40OTU3LDMuNDk1NiAgICBjMCwxLjkzMTYtMS41NjUsMy40OTY2LTMuNDk1NywzLjQ5NjZDMTkuMzI1MiwzNS44MTQ5LDE3Ljc2MDIsMzQuMjQ5OSwxNy43NjAyLDMyLjMxODN6IE0zNi41NTAxLDQxLjc3NTUgICAgYy0wLjEwNDIsMC4xMDktMi42MTMyLDIuNjYxNS04LjI4MzMsMi42NjE1Yy01LjY5OTIsMC03Ljk3OTEtMi41ODc5LTguMDczLTIuNjk3N2MtMC4zMjEzLTAuMzc1Mi0wLjI3NzUtMC45NDAzLDAuMDk3Ny0xLjI2MDUgICAgYzAuMzczMy0wLjMxODQsMC45MzI4LTAuMjc3NCwxLjI1NSwwLjA5MjFjMC4wNTExLDAuMDU1OSwxLjk1NCwyLjA3ODgsNi43MjA0LDIuMDc4OGM0Ljg0OTIsMCw2Ljk3NTQtMi4wOTQ2LDYuOTk2OC0yLjExNSAgICBjMC4zNDM1LTAuMzUsMC45MDg2LTAuMzU4NCwxLjI2MTQtMC4wMTQ5QzM2Ljg3NTksNDAuODYyMywzNi44ODksNDEuNDIwOSwzNi41NTAxLDQxLjc3NTV6IE0zNS44NTQ3LDM1LjgxNDkgICAgYy0xLjkzMjYsMC0zLjQ5NzUtMS41NjUtMy40OTc1LTMuNDk2NmMwLTEuOTI5OCwxLjU2NS0zLjQ5NTYsMy40OTc1LTMuNDk1NmMxLjkzMDgsMCwzLjQ5NTcsMS41NjU4LDMuNDk1NywzLjQ5NTYgICAgQzM5LjM1MDQsMzQuMjQ5OSwzNy43ODU1LDM1LjgxNDksMzUuODU0NywzNS44MTQ5eiIvPjwvZz48L2c+PC9zdmc+)!important;}
 
 .checkbox .checkbox-inner+span{color:rgba(255, 255, 255, .7);}
-<<<<<<< HEAD
-=======
-=======
->>>>>>> 1499cefb5375d3eecdc8d6988c4f0cf6bdf00807
->>>>>>> f19fa4276d4b60a580a90acc16b0d824cd5966b6
 
 .connect-account-btn .connect-account-btn-inner{background-color:#121213;border:0px solid transparent;}
 
